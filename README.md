@@ -49,3 +49,6 @@ STM32控制PWM和SD的输出，通过IR204STRPBF和VS1和VS的电流和C49自举
 L2电感率高频电流 U34电感储能和防止浪涌电压
 输入1K电阻防止电流过大损坏芯片 R88分压防止mos管烧坏 R89拉低栅极电压
 D11和D10K快速放电
+
+PCB布局
+<img width="703" height="690" alt="DCDC原理图" src="https://github.com/user-attachments/assets/a7a33538-142c-4114-9378-c2fd06194c91" />
