@@ -1,3 +1,5 @@
+![微信图片_20260205042903_591_130](https://github.com/user-attachments/assets/c7ab3b1b-1d31-4e6a-9575-dc3184ede079)
+
 Allegro绘制原理图
 
 <img width="1045" height="737" alt="DCDCPCB" src="https://github.com/user-attachments/assets/966e1787-c910-4fc3-bf1e-2dcf4f5c3fff" />
@@ -32,7 +34,7 @@ C66和两个并联电阻形成低通滤波电路滤除电源的高频干扰
 75和74的9R1电阻使差分输入阻抗相等，消除共模干扰，防止浪涌电压损坏芯片   
 相比小电阻限流大，大电阻分压小   
 D6检测反向电流   
-选型INA282AIDR，内置20倍固定增益，无需额外增益电阻，共模抑制比大，能有效抑制电源波动、地线噪声等共模干扰，精度高，5V提供基准电压，手册电路直接5V转2V上下
+双向电流高端检测选型INA282AIDR，内置20倍固定增益，无需额外增益电阻，共模抑制比大，能有效抑制电源波动、地线噪声等共模干扰，精度高，5V提供基准电压，手册电路直接5V转2V上下
 
 <img width="865" height="366" alt="image" src="https://github.com/user-attachments/assets/e5fc4bcb-e4ae-49d2-a333-70c5293102e3" />
 
