@@ -57,6 +57,11 @@ L2磁珠率高频电流 U34电感储能和防止浪涌电压
 电感电压为输入一半峰值电流最大
 1mH纹波系数小，滤波效果好，缺点体系大
 
+![a3f18cad4ff8b64af1148190e4b206bf](https://github.com/user-attachments/assets/095efd64-34ef-4089-96cb-12aa3d724077)
+![f84e8af9b1a83718baa9970df3f3af99](https://github.com/user-attachments/assets/e01210e7-7bf6-4b76-8f7f-aaf82e4dc2aa)
+220UF电解电容并联减小ESR
+
+
 <img width="530" height="189" alt="image" src="https://github.com/user-attachments/assets/edcf0e66-87f0-422b-b574-55df9660ad2b" />
 
 ![efd0d4ae9ad2cedb0a1be6c693d989b0](https://github.com/user-attachments/assets/549d9c4e-6544-4d7a-907b-0d49f436c959)
