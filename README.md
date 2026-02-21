@@ -58,7 +58,10 @@ L2磁珠率高频电流 U34电感储能和防止浪涌电压
 1mH纹波系数小，滤波效果好，缺点体系大
 
 <img width="530" height="189" alt="image" src="https://github.com/user-attachments/assets/edcf0e66-87f0-422b-b574-55df9660ad2b" />
-![efd0d4ae9ad2cedb0a1be6c693d989b0](https://github.com/user-attachments/assets/a787bb54-4c81-4101-bca1-7296a15e282c)
+
+![efd0d4ae9ad2cedb0a1be6c693d989b0](https://github.com/user-attachments/assets/549d9c4e-6544-4d7a-907b-0d49f436c959)
+
+
 C49自举电容驱动内部mos管
 输入1K电阻防止电流过大损坏芯片 R88分压防止mos管烧坏 R89拉低栅极电压   
 D11和D10二极管快速放电
