@@ -38,7 +38,7 @@ D6保护单片机
 
 <img width="865" height="366" alt="image" src="https://github.com/user-attachments/assets/e5fc4bcb-e4ae-49d2-a333-70c5293102e3" />
 
-前一个同相比例基本运算电路输入，经过运放电压衰减21倍，再经过，第二个电压跟随器直接输出电压，电压跟随器输出电阻小，电压全部输出到单片机   
+前一个同相比例基本运算电路输入，经过运放电压衰减20倍，再经过，第二个电压跟随器直接输出电压，电压跟随器输出电阻小，电压全部输出到单片机   
 5V提供运放静态工作电压
 
 <img width="379" height="330" alt="image" src="https://github.com/user-attachments/assets/191f6868-eda2-4547-b4be-719d1f2c895f" />
