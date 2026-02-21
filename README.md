@@ -6,7 +6,7 @@ Allegro绘制原理图
 
 电路分析
 
-<img width="661" height="249" alt="image" src="https://github.com/user-attachments/assets/c44631a0-df03-4eef-ab8c-e5c773ab393f" />
+<img width="707" height="163" alt="image" src="https://github.com/user-attachments/assets/cb8d7c49-324e-4bc3-991b-2fa289ea4e42" />
 <img width="488" height="128" alt="image" src="https://github.com/user-attachments/assets/f0236d1b-5fe1-4952-a76d-fe1449d7dc45" />
 
 12V电源输入，经过电容滤波和LM2596S芯片开关电压输出降压为5V在经过L1电感储能和滤波电容输出，D4肖特基二极管为防止芯片开启时电感反向输出时破坏电路，反向回复电流，芯片关闭时电感反向经过电流，L1电感能减少电压突变浪涌 C43滤波电容使电压更平衡
@@ -51,6 +51,13 @@ STM32输出高低电平到DCOUT，通过DCOUT高低电平控制Q4三极管的导
 
 STM32控制PWM和SD的输出，通过IR204STRPBF和VS1和VS的电流和C49自举电容和D5肖特基二极管来控制HO和LO高低电流转换来控制Q1和Q2的通断来实现buck boost操作   
 L2磁珠率高频电流 U34电感储能和防止浪涌电压   
+
+![d73124e44caca56c54a104e5e6cde7dd](https://github.com/user-attachments/assets/51b0ea91-f595-4cce-94b1-4b673b390d43)
+
+电感电压为输入一半峰值电流最大
+1mH纹波系数小，滤波效果好，缺点体系大
+
+
 输入1K电阻防止电流过大损坏芯片 R88分压防止mos管烧坏 R89拉低栅极电压   
 D11和D10二极管快速放电
 
