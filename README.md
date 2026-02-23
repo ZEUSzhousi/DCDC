@@ -50,7 +50,9 @@ STM32输出高低电平到DCOUT，通过DCOUT高低电平控制Q4三极管的导
 
 
 STM32控制PWM和SD的输出，通过IR204STRPBF和VS1和VS的电流和C49自举电容和D5肖特基二极管来控制HO和LO高低电流转换来控制Q1和Q2的通断来实现buck boost操作   
-L2磁珠率高频电流 U34电感储能和防止电流突变 
+L2磁珠率高频电流 U34电感储能和防止电流突变
+二极管快速拉低G S电压
+电阻消耗寄生电容电压
 
 ![d73124e44caca56c54a104e5e6cde7dd](https://github.com/user-attachments/assets/51b0ea91-f595-4cce-94b1-4b673b390d43)
 
