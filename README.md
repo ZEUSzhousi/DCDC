@@ -9,7 +9,7 @@ Allegro绘制原理图
 <img width="707" height="163" alt="image" src="https://github.com/user-attachments/assets/cb8d7c49-324e-4bc3-991b-2fa289ea4e42" />
 <img width="488" height="128" alt="image" src="https://github.com/user-attachments/assets/f0236d1b-5fe1-4952-a76d-fe1449d7dc45" />
 
-12V电源输入，经过电容滤波和LM2596S芯片开关电压输出降压为5V在经过L1电感储能和滤波电容输出，D4肖特基二极管为防止芯片开启时电感反向输出时破坏电路，反向回复电流，芯片关闭时电感反向经过电流，L1电感能减少电压突变浪涌 C43滤波电容使电压更平衡
+12V电源输入，经过电容滤波和LM2596S芯片开关电压输出降压为5V在经过L1电感储能和滤波电容输出，D4肖特基二极管为防止芯片开启时电感反向输出时破坏电路，反向回复电流，芯片关闭时电感反向经过电流，L1电感能减少电流突变浪涌
 芯片选型LM25996S-5.0 散热好，成本低，输出电流适中，输出电压稳定
 
 <img width="576" height="147" alt="image" src="https://github.com/user-attachments/assets/8698738e-fb79-4a86-a1b8-2b93d09f85af" />
