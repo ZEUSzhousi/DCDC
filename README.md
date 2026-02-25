@@ -1,4 +1,10 @@
-![微信图片_20260205042903_591_130](https://github.com/user-attachments/assets/c7ab3b1b-1d31-4e6a-9575-dc3184ede079)
+放电boost30V
+
+![81e96cde8bd7347c948bde0f27beb515](https://github.com/user-attachments/assets/2b6bf2c6-ef39-40fb-80df-7b72e1c08ce2)
+
+充电0.5A
+
+![d793f030c05b01fd3be08bc5f4c29b98](https://github.com/user-attachments/assets/17786392-0249-4c9c-9496-bbb7618b592b)
 
 Allegro绘制原理图
 
