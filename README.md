@@ -1,10 +1,14 @@
 放电boost30V
 
-![81e96cde8bd7347c948bde0f27beb515](https://github.com/user-attachments/assets/2b6bf2c6-ef39-40fb-80df-7b72e1c08ce2)
+![8c9c02854d6a40f1c41be4511af78913](https://github.com/user-attachments/assets/59092770-f30a-4e77-92e4-b02eb6924493)
+
+https://github.com/user-attachments/assets/6cd5b974-2195-4362-ae3e-edbf3dcc64fc
 
 充电0.5A
 
-![d793f030c05b01fd3be08bc5f4c29b98](https://github.com/user-attachments/assets/17786392-0249-4c9c-9496-bbb7618b592b)
+![e817046c339c06fd3b7adc0f0e104bfa](https://github.com/user-attachments/assets/df27e07f-155c-493b-91ec-ea96f0f66c99)
+
+https://github.com/user-attachments/assets/5c10ce5e-a392-4d7d-a5ee-07d570d73f47
 
 Allegro绘制原理图
 
