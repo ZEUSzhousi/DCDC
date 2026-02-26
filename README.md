@@ -64,7 +64,7 @@ L2磁珠率高频电流 U34电感储能和防止电流突变
 二极管快速拉低G S电压
 电阻消耗寄生电容电压
 
-![d73124e44caca56c54a104e5e6cde7dd](https://github.com/user-attachments/assets/51b0ea91-f595-4cce-94b1-4b673b390d43)
+![9eb9291562209e67ec9609a90dc9ce98](https://github.com/user-attachments/assets/9229a0a5-3ba2-40c5-bfc6-fd5a0289c4c0)
 
 电感电压为输入一半峰值电流最大
 1mH纹波系数小，滤波效果好，缺点体系大
